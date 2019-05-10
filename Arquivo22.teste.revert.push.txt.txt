@@ -1,0 +1,2 @@
+Este arquivo foi inserido para testar a reversão de um push 
+e em seguida executar o commit e push novamente.
